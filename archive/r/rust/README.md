@@ -11,6 +11,7 @@ Welcome to Sample Programs in Rust!
 - [Reverse a String in Rust](https://github.com/jrg94/sample-programs/issues/261)
 - [Roman Numeral Conversion in Rust](https://github.com/TheRenegadeCoder/sample-programs/issues/536)
 - [ROT-13 in Rust](https://github.com/TheRenegadeCoder/sample-programs/issues/1118)
+- [Capitalize first letter of a word in Rust](https://github.com/TheRenegadeCoder/sample-programs/issues/1781)
 
 ## Fun Facts
 
@@ -24,3 +25,4 @@ Welcome to Sample Programs in Rust!
 - [Rust Docs](https://www.rust-lang.org/en-US/)
 - [Rust GitHub](https://github.com/rust-lang/rust)
 - [Online Rust Editor](https://play.rust-lang.org/)
+- [Learn Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
