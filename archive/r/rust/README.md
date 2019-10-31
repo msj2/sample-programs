@@ -12,12 +12,14 @@ Welcome to Sample Programs in Rust!
 - [Roman Numeral Conversion in Rust](https://github.com/TheRenegadeCoder/sample-programs/issues/536)
 - [ROT-13 in Rust](https://github.com/TheRenegadeCoder/sample-programs/issues/1118)
 - [Capitalize first letter of a word in Rust](https://github.com/TheRenegadeCoder/sample-programs/issues/1781)
+- [Odd/Even in Rust](https://github.com/TheRenegadeCoder/sample-programs/issues/1827)
 
 ## Fun Facts
 
 - Debut: 2010
 - Developer: Rust Project Developers
 - Typing: Static
+- Rust compiler is so much addicted on optimising memory, that it detects unused variables and cautions User to remove them, 
 
 ## References
 
